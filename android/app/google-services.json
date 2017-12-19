@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "235960729924",
+    "firebase_url": "https://gobus-881bb.firebaseio.com",
+    "project_id": "gobus-881bb",
+    "storage_bucket": "gobus-881bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235960729924:android:968a6339f400fbd5",
+        "android_client_info": {
+          "package_name": "com.gobus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235960729924-0n4vasti8l1268rdiitngvsk552ltk4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKHHd-RUbobMdgG7MpvLj3VjrMwzSRVAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
